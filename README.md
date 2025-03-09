@@ -1,8 +1,11 @@
 # Yussef Arsalan
 
-**'To my Person'**
+**'A little bit about myself'**
 
-Here are some ideas to get you started:
+My name is Yussef Arsalan, Im living in the beautiful country of Germany, where I also have the honour of going to university too, 
+Im striving to work in the Cybersecurity-Industry, so a lot of the projects will be going in that direction. All Coding projects are 
+built from scratch and mostly by myself, from the idea, to the planning, to the coding and the design and testing. For building the projects,
+I rely on the Knowledge, I get from university, various online Courses, Youtube Videos or LLM's.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
