@@ -24,7 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YussefsPortfolio/YussefsPortfolio/output/snake.svg" alt="Snake animation" />
 
 ###
 
